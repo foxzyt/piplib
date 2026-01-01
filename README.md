@@ -11,4 +11,4 @@ That's it!
 How to use it:
 
 1. Go to your folder where your Python files are
-2. Execute: piplib install 
+2. Execute: piplib install <file.py> or piplib install -a (All)
